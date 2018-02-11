@@ -1,0 +1,4 @@
+logout(){
+
+echo logout
+}
